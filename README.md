@@ -4,7 +4,7 @@
 const alex = {
   bio: 'Full-stack Developer based in Brazil',
   code: ['Angular', 'Python', 'JavaScript', 'TypeScript', 'NodeJs', 'React', 'PHP', 'C#'],
-  tools: ['vscode', 'yarn', 'eslint', 'prettier', 'husky', 'commitlint'],
+  tools: ['vscode', 'yarn', 'npm' 'eslint', 'prettier', 'husky', 'git'],
 }
 ```
 
