@@ -2,7 +2,7 @@
 
 ```js
 const alex = {
-  bio: 'Full-stack Developer based in Brazil',
+  bio: 'Full-Stack Developer based in Brazil with a passion for developing of all types, and sizes.',
   code: ['Angular', 'Python', 'JavaScript', 'TypeScript', 'NodeJs', 'React', 'PHP', 'C#'],
   tools: ['vscode', 'yarn', 'npm' 'eslint', 'prettier', 'husky', 'git'],
 }
