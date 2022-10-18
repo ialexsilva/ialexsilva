@@ -1,7 +1,7 @@
 # Hi, I'm Alex Silva 👋
 
 ```js
-const alex = {
+const me = {
   bio: 'Full-Stack Developer based in Brazil with a passion for developing of all types, and sizes.',
   code: ['Angular', 'Python', 'JavaScript', 'TypeScript', 'NodeJs', 'Nextjs', 'PHP', 'C#'],
   tools: ['vscode', 'yarn', 'npm' 'eslint', 'prettier', 'vercel', 'git'],
