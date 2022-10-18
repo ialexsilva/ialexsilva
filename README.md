@@ -1,4 +1,4 @@
-# Hi there, I'm Alex Silva 👋
+# Hi, I'm Alex Silva 👋
 
 ```js
 const alex = {
