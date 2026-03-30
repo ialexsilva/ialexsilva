@@ -4,10 +4,7 @@ const alex = {
   bio: 'Full-Stack Developer based in Brazil with a passion for developing of all types, and sizes.',
   code: ['Angular', 'Next.js', 'Python', 'Node.js'],
   tools: ['vscode', 'npm', 'eslint', 'prettier', 'ruff', 'uv', 'jest', 'git', 'docker'],
-  contact: () => "eqpvcvq@kcngzuknxc.fgx"
-    .split("")
-    .map(c => c >= "c" && c <= "{" ? String.fromCharCode(c.charCodeAt(0) - 2) : c)
-    .join(""),
+  get contact(){return atob('Y29udGF0b0BpYWxleHNpbHZhLmRldg==')},
 }
 console.info(alex);
 ```
